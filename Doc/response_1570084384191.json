@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Calculator_Windows 10_WinAutomationV8.xml",
+    "category": "Windows Desktop Applications",
+    "application": "Calculator",
+    "contentPath": "Windows Desktop Applications/Calculator/Calculator_Windows 10_WinAutomationV8.xml",
+    "technology": {
+      "name": "WinAutomation",
+      "version": "8"
+    },
+    "lastUpdated": "2019-09-05T10:34:08Z",
+    "author": "dgo3",
+    "contentID": "e24c5489df9d86a195b0be800212b554c2062893",
+    "description": "Collection of reusable components for Calculator_Windows  version 10",
+    "objects": [
+      {
+        "name": "Main Flow",
+        "desc": "Test Description",
+        "actions": [
+          {
+            "name": "Open Calculator",
+            "desc": "Used to Open Calculator Version"
+          },
+          {
+            "name": "Click 1",
+            "desc": "Used to Click Number 1"
+          },
+          {
+            "name": "Click 2",
+            "desc": "Used to Click Number 2"
+          },
+          {
+            "name": "Click Add",
+            "desc": "Used to click + for adding the numbers"
+          }
+        ],
+        "objectId": "0"
+      }
+    ],
+    "processTags": null
+  }
+]
